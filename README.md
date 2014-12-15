@@ -3,7 +3,7 @@ FiltroAEDE
 
 Lista de Filtros para Adblock Plus: Boicot a los adscritos a AEDE.
 
-Versión actual: 2.3
+Versión actual: 2.4
 
 
 Cómo añadir a AdBlock Plus:
@@ -14,12 +14,26 @@ Primero necesitas [tener instalado AdBlock Plus o actualizado (2.0 o superior)]
 • Para añadir filtros manualmente:
 
 - En las preferencias de AdBlock puedes gestionar tus listas y añadir nuevas. 
-- Copia la URL donde lo pida: http://raw.github.com/gangsthub/FiltroAEDE/master/boikot-AEDE-adblock.txt
+- Copia la URL donde lo pida: http://raw.github.com/gangsthub/FiltroAEDE/master/ABPAEDE.txt
     - *Nota: no funciona con el esquema 'https'!*
 - Recomiendo escribir en el título "Filtro Boicot a AEDE + version" para que salga bien la primera vez que aparece. El título (con la versión) se actualizará automáticamente si se le da al botón 'Actualizar'.
 - (Si necesitas más detalles en las instrucciones, en pobre.tk [lo explican](http://pobre.tk/p/i/c/2-filtro-aede) muy bien)
 - Si todo va bien:
 
+
+Cómo bloquear por archivo host:
+
+PC
+Copiar el contenido de HOSTSAEDE.txt a
+- http://www.aede.es/publica/Periodicos_Asociados.asp
+- En WINDOWS: C:\windows\system32\drivers\etc\hosts
+- En IOS: sudo pico /private/etc/hosts
+- En LINUX: /etc/hosts
+
+ANDROID
+- En ANDROID: instalar la aplicación (https://sufficientlysecure.org/index.php/adaway/) o (http://forum.xda-developers.com/showthread.php?t=2190753&nocache=1)
+- Añadir como suscripción la url raw al archivo "HOSTSAEDE" (https://raw.githubusercontent.com/carcheky/FiltroAEDE/master/HOSTSAEDE.txt)
+----------
 
 Funcionamiento:
 ----------

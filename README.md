@@ -20,11 +20,8 @@ Primero necesitas [tener instalado AdBlock Plus o actualizado (2.0 o superior)]
 
 • Cómo bloquear por archivo host:
 ================================
-
-
 PC
 --
-
 Copiar el contenido de HOSTSAEDE.txt a
 - En WINDOWS: C:\windows\system32\drivers\etc\hosts
 - En IOS: sudo pico /private/etc/hosts
@@ -32,20 +29,13 @@ Copiar el contenido de HOSTSAEDE.txt a
 
 ANDROID
 -------
-
 - En ANDROID: instalar la aplicación (https://sufficientlysecure.org/index.php/adaway/) o (http://forum.xda-developers.com/showthread.php?t=2190753&nocache=1)
-<<<<<<< HEAD
 - Añadir como suscripción la url al archivo "HOSTSAEDE": http://carcheky.com/boikot-hosts-aede.txt (no lee https)
 
-=======
-- Añadir como suscripción la url raw al archivo "HOSTSAEDE" (https://raw.githubusercontent.com/carcheky/FiltroAEDE/master/HOSTSAEDE.txt)
 
-
->>>>>>> FETCH_HEAD
-----------
 
 Funcionamiento:
-----------
+================================
 
 FiltroAEDE [se compone de] dos partes o listas:
 

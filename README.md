@@ -11,10 +11,10 @@ Cómo añadir a AdBlock Plus:
 
 Primero necesitas [tener instalado AdBlock Plus o actualizado (2.0 o superior)]
 
-• Para añadir filtros manualmente:
-	- En las preferencias de AdBlock puedes gestionar tus listas y añadir nuevas. 
+- Para añadir filtros manualmente:
+	- En las preferencias de AdBlock puedes gestionar tus listas y añadir nuevas.
 	- Copia la URL donde lo pida: http://raw.github.com/gangsthub/FiltroAEDE/master/ABPAEDE.txt
-    	- *Nota: no funciona con el esquema 'https'!*
+		- *Nota: no funciona con el esquema 'https'!*
 	- Recomiendo escribir en el título "Filtro Boicot a AEDE + version" para que salga bien la primera vez que aparece. El título (con la versión) se actualizará automáticamente si se le da al botón 'Actualizar'.
 	- (Si necesitas más detalles en las instrucciones, en pobre.tk [lo explican](http://pobre.tk/p/i/c/2-filtro-aede) muy bien)
 
@@ -29,8 +29,8 @@ PC
 
 ANDROID
 -------
-	- En ANDROID: instalar la aplicación (https://sufficientlysecure.org/index.php/adaway/) o (http://forum.xda-developers.com/showthread.php?t=2190753&nocache=1)
-	- Añadir como suscripción la url al archivo "HOSTSAEDE": http://carcheky.com/boikot-hosts-aede.txt (no lee https)
+- En ANDROID: instalar la aplicación (https://sufficientlysecure.org/index.php/adaway/) o (http://forum.xda-developers.com/showthread.php?t=2190753&nocache=1)
+- Añadir como suscripción la url al archivo "HOSTSAEDE": http://carcheky.com/boikot-hosts-aede.txt (no lee https)
 
 
 

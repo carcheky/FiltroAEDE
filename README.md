@@ -21,7 +21,7 @@ Primero necesitas [tener instalado AdBlock Plus o actualizado (2.0 o superior)]
 - Si todo va bien:
 
 
-Cómo bloquear por archivo host:
+• Cómo bloquear por archivo host:
 
 PC
 Copiar el contenido de HOSTSAEDE.txt a

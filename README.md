@@ -32,7 +32,7 @@ Copiar el contenido de HOSTSAEDE.txt a
 
 ANDROID
 - En ANDROID: instalar la aplicación (https://sufficientlysecure.org/index.php/adaway/) o (http://forum.xda-developers.com/showthread.php?t=2190753&nocache=1)
-- Añadir como suscripción la url raw al archivo "HOSTSAEDE" (https://raw.githubusercontent.com/carcheky/FiltroAEDE/master/HOSTSAEDE.txt)
+- Añadir como suscripción la url al archivo "HOSTSAEDE": http://carcheky.com/boikot-hosts-aede.txt (no lee https)
 ----------
 
 Funcionamiento:

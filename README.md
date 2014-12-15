@@ -19,16 +19,17 @@ Primero necesitas [tener instalado AdBlock Plus o actualizado (2.0 o superior)]
 - (Si necesitas más detalles en las instrucciones, en pobre.tk [lo explican](http://pobre.tk/p/i/c/2-filtro-aede) muy bien)
 
 • Cómo bloquear por archivo host:
+---------------------------------
 
 PC
---
+
 Copiar el contenido de HOSTSAEDE.txt a
 - En WINDOWS: C:\windows\system32\drivers\etc\hosts
 - En IOS: sudo pico /private/etc/hosts
 - En LINUX: /etc/hosts
 
 ANDROID
--------
+
 - En ANDROID: instalar la aplicación (https://sufficientlysecure.org/index.php/adaway/) o (http://forum.xda-developers.com/showthread.php?t=2190753&nocache=1)
 - Añadir como suscripción la url raw al archivo "HOSTSAEDE" (https://raw.githubusercontent.com/carcheky/FiltroAEDE/master/HOSTSAEDE.txt)
 
